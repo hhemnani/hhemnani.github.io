@@ -14,3 +14,9 @@ Welcome to the repository for my personal portfolio website! This project showca
 ## 🎨 Design Inspiration
 
 The design of this portfolio was inspired by modern and minimalist web design principles.
+
+## 📷 Screenshots
+
+![image](https://github.com/user-attachments/assets/c7e7275c-7f24-4fd5-b1e0-241a5876ebf8)
+
+
