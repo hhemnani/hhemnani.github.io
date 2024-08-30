@@ -19,4 +19,4 @@ The design of this portfolio was inspired by modern and minimalist web design pr
 
 ![image](https://github.com/user-attachments/assets/c7e7275c-7f24-4fd5-b1e0-241a5876ebf8)
 
-
+Thank you for visiting my portfolio. I hope you enjoy exploring my work!
